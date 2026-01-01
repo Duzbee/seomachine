@@ -1,9 +1,6 @@
-# Castos Style Guide
+# RustCasino Style Guide
 
-This guide defines writing conventions, formatting standards, and editorial guidelines for all Castos content.
-
-## Instructions
-Fill in this template with Castos-specific style preferences. Update as the style guide evolves.
+This guide defines writing conventions, formatting standards, and editorial guidelines for all RustCasino content.
 
 ---
 
@@ -12,20 +9,27 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 ### Capitalization
 
 **Headlines & Subheadings**:
-- [ ] Title Case (Capitalize Major Words)
-- [ ] Sentence case (Only capitalize first word)
-- **Decision**: [Choose one and document here]
+- **Decision**: Title Case (Capitalize Major Words)
+- Example: "How Rust Gambling Works at RustCasino"
 
-**Product Names**:
-- Castos: [Always capitalized]
-- Seriously Simple Podcasting: [Capitalization style]
-- [Other Castos products]: [Style]
+**Product/Brand Names**:
+- RustCasino: Always one word, capital R and C
+- Rust: Always capitalized (the game)
+- Steam: Always capitalized
+
+**Game Names**:
+- Cases: Lowercase unless starting sentence
+- Case Battles: Title case (two words)
+- Roulette: Capitalize
+- Coinflip: One word, capitalize at start of sentence
+- Jackpot: Capitalize
+- Blackjack: Capitalize
 
 **Industry Terms**:
-- podcast / Podcast: [Choose one]
-- podcaster / Podcaster: [Choose one]
-- RSS / rss: [RSS (always caps)]
-- [Add other common terms]
+- provably fair: Lowercase (unless starting sentence)
+- house edge: Lowercase
+- skins: Lowercase
+- server seed / client seed: Lowercase
 
 ### Numbers
 
@@ -33,56 +37,49 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 - Spell out: One through nine
 - Use numerals: 10 and above
 - Exceptions:
-  - Percentages: Always use numerals (5%, 50%)
-  - Money: Always use numerals ($5, $500)
-  - Measurements: Always use numerals (5 GB, 50 MB)
-  - Lists/stats: Always use numerals for scannability
+  - Percentages: Always use numerals (5%, 2.5%)
+  - Money/Values: Always use numerals ($5, 500 coins)
+  - Odds: Always use numerals (2x, 14x multiplier)
+  - House edge: Always use numerals (1.5% house edge)
 
 **Large Numbers**:
 - 1,000+ (use comma)
-- 1 million (spell out million, billion, etc.)
-- $5,000 or $5K? [Choose convention]
+- $1 million (spell out million, billion)
+- $5K or $5,000 both acceptable
 
 ### Punctuation
 
 **Oxford Comma**:
-- [ ] Yes (A, B, and C)
-- [ ] No (A, B and C)
-- **Decision**: [Choose and document]
+- **Decision**: Yes (cases, roulette, and blackjack)
 
 **Em Dashes**:
-- Style: — (em dash, no spaces) or - - (hyphens with spaces)
-- Usage: For parenthetical statements or emphasis
-- Example: "Podcast analytics—when used correctly—drive better content decisions."
+- Style: -- (double hyphen, no spaces)
+- Usage: For emphasis or parenthetical statements
+- Example: "Provably fair -- not just words, but mathematics."
 
 **Quotation Marks**:
-- "Straight quotes" or "Curly quotes"?
-- **Decision**: [Choose one]
+- "Straight quotes" for consistency across platforms
 
 **Ellipses**:
 - Three dots: ...
-- Spacing: no spaces before or after
-- Use sparingly: Primarily for omitted text in quotes
+- Spacing: No spaces before or after
+- Use sparingly: Only for trailing thoughts or suspense
 
 ### Abbreviations & Acronyms
 
 **First Use**:
-- Spell out on first use, acronym in parentheses
-- Example: "Really Simple Syndication (RSS) feeds distribute..."
-- Exceptions for universally known: SEO, URL, CTA
+- Spell out on first use if not universally known
+- Exceptions (no need to spell out): RNG, VPN, API
 
-**Common Podcasting Acronyms**:
-- RSS: Really Simple Syndication
-- DAI: Dynamic Ad Insertion
-- SEO: Search Engine Optimization
-- IAB: Interactive Advertising Bureau
-- [Add others as needed]
+**Common Gambling/Gaming Acronyms**:
+- RNG: Random Number Generator
+- RTP: Return to Player
+- P2P: Peer to Peer
 
-**Latin Abbreviations**:
-- e.g. (for example): [Use or avoid?]
-- i.e. (that is): [Use or avoid?]
-- etc. (and so forth): [Use or avoid?]
-- **Decision**: [Generally avoid in favor of plain English]
+**Rust-Specific Terms**:
+- AK: AK-47 skin (universally known in community)
+- LR: LR-300 skin
+- Don't spell these out -- the audience knows them
 
 ---
 
@@ -90,29 +87,40 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 
 ### Preferred Terms
 
-**Say This** → **Not That**:
-- podcast creators → podcasters
-- podcast hosting → podcast storage
-- listeners → subscribers
-- audio quality → sound quality
-- show notes → episode notes / shownotes
-- podcast episode → podcast show (episode is unit, show is series)
-- analytics → stats
-- monetize → monetise (US spelling)
-- [Add Castos-specific preferences]
+**Say This** > **Not That**:
+- skins > cosmetic items (community language)
+- cases > loot boxes (established term)
+- house edge > rake (transparency)
+- provably fair > verified fair (specific term)
+- withdraw > cash out (skin gambling context)
+- instant withdrawals > fast withdrawals (specific)
+- Rust gambling > skin gambling (SEO + niche)
+- players > users (community feel)
+- win > profit (excitement)
+- bet > wager (casual language)
 
 ### Words to Avoid
-- Avoid jargon without explanation
-- Avoid "very", "really", "actually" (usually unnecessary)
-- Avoid passive constructions when active is clearer
-- Avoid "click here" or "read more" (use descriptive links)
-- [Add other words/phrases to avoid]
+- "Guaranteed" (nothing is guaranteed in gambling)
+- "Easy money" (irresponsible)
+- "Can't lose" (false)
+- "Very" and "really" (usually unnecessary)
+- "Premium" or "luxury" (wrong tone for gaming audience)
+- "State-of-the-art" (corporate speak)
+- Click here (use descriptive links)
+
+### Gaming Terminology to Use Naturally
+- Skins, inventory, Steam
+- Cases, opening, unboxing
+- House edge, odds, multiplier
+- Server seed, client seed, provably fair
+- Deposit, withdraw, balance
+- Jackpot, pot, entry
+- Roll, spin, flip
 
 ### Inclusive Language
-- Use gender-neutral language ("they" instead of "he/she")
-- "Podcast creator" or "podcaster" instead of gendered terms
-- Avoid idioms that may not translate globally
-- Be mindful of accessibility in descriptions
+- Use "players" not gendered terms
+- "They/their" for singular when gender unknown
+- Avoid gambling addiction triggers -- be responsible
 
 ---
 
@@ -121,101 +129,92 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 ### Text Formatting
 
 **Bold**:
-- Use for: Key concepts, important takeaways, emphasis
+- Use for: Key terms, important numbers, game names in lists
 - Don't overuse: If everything is bold, nothing stands out
-- Example: "**Keyword density** should be 1-2% for optimal results."
+- Example: "The **house edge** on Coinflip is just **1.5%**"
 
 **Italics**:
-- Use for: Emphasis (sparingly), titles of works, foreign phrases
-- Example: "The term *podcast* combines 'iPod' and 'broadcast'."
+- Use for: Emphasis (sparingly), game titles if referencing Rust the game
+- Example: "Every item from *Rust* can be used on RustCasino"
 
 **Underline**:
-- Generally avoid (reserve for links)
+- Avoid (reserve for links)
 
 **ALL CAPS**:
-- Avoid except for standard acronyms (RSS, SEO, URL)
+- Avoid except for acronyms (RNG, RTP)
 
 ### Lists
 
 **Bulleted Lists**:
-- Use for: Non-sequential items, features, benefits
-- Capitalization: [Sentence case or Title Case?]
-- Punctuation: [Period at end of each item or no punctuation?]
-- **Decision**:
-  - Capitalize first word
-  - Period if complete sentence, no period if fragment
-  - Parallel structure (all sentences or all fragments)
+- Use for: Features, benefits, game options
+- Capitalization: First word capitalized
+- Punctuation: Period if complete sentence, none if fragment
+- Parallel structure required
 
 **Numbered Lists**:
-- Use for: Sequential steps, rankings, ordered priorities
+- Use for: Steps, rankings, sequential processes
 - Format: 1. 2. 3. (with period after number)
-- Same capitalization and punctuation rules as bullets
 
 **Nested Lists**:
-- Maximum 2 levels deep for readability
-- Use different markers for sub-items
+- Maximum 2 levels deep
+- Use different markers (- then +)
 
 ### Links
 
 **Anchor Text**:
-- Descriptive (tell reader where they're going)
-- Keyword-rich when possible
+- Descriptive and keyword-rich
 - 2-5 words typically
-- ✅ "Learn more about podcast SEO"
-- ❌ "Click here"
+- Examples:
+  - "try our [Coinflip game](/coinflip)"
+  - "check out [Case Battles](/case-battles)"
+  - "learn about [provably fair](/provably-fair)"
+- Never: "click here" or "read more"
 
-**Link Formatting**:
-- Color: [Default blue or Castos brand color?]
-- Underline: [Yes/No]
-- Open in new tab: [Only for external links]
+**Link Behavior**:
+- Internal links: Same tab
+- External links: New tab
 
 ### Code & Technical Elements
 
 **Inline Code**:
-- Use backticks for: URLs, file names, code snippets
-- Example: "Your RSS feed URL is `https://feeds.castos.com/...`"
+- Use backticks for: Seeds, hashes, technical values
+- Example: "Your client seed is `a7f3b2c1d4e5`"
 
 **Code Blocks**:
-- Use for: Multi-line code, configuration examples
-- Include language identifier for syntax highlighting
+- Use for: Seed verification examples, hash calculations
 
-### Callout Boxes / Asides
+### Callout Boxes
 
 **When to Use**:
-- Important notes or warnings
-- Pro tips or expert insights
-- Key takeaways or summaries
+- Important warnings (gambling responsibly)
+- Pro tips
+- Key takeaways
 
-**Format**:
-- [Define how to format: blockquote, box, highlighted section?]
-- Example style to be determined
+**Format**: Use blockquote style
+> **Pro Tip**: Always verify your seeds after each session.
 
 ---
 
 ## Content Structure
 
 ### Article Introduction
-**Standard Structure** (150-250 words):
-1. **Hook** (1-2 sentences): Grab attention with question, statistic, or bold statement
-2. **Problem** (2-3 sentences): What challenge or question does this address?
-3. **Promise** (2-3 sentences): What will reader learn/achieve?
-4. **Credibility** (optional, 1-2 sentences): Why trust this source?
-
-**Keyword Placement**:
-- Must include primary keyword in first 100 words
-- Natural integration, not forced
+**Standard Structure** (100-200 words):
+1. **Hook** (1-2 sentences): Grab attention with benefit or question
+2. **Problem/Context** (1-2 sentences): What challenge or need?
+3. **Promise** (1-2 sentences): What will reader learn/gain?
+4. **Keyword placement**: Primary keyword in first 100 words
 
 ### Section Length
-- **Minimum**: 150 words per section
-- **Maximum**: 500 words per section (break into subsections if longer)
-- **Ideal**: 250-350 words per main section
+- **Minimum**: 100 words per section
+- **Maximum**: 400 words per section (break into subsections if longer)
+- **Ideal**: 150-250 words per main section
 
 ### Conclusion
-**Standard Structure** (150-250 words):
-1. **Recap** (3-5 bullet points or paragraph): Key takeaways
-2. **Action** (1-2 sentences): What should reader do next?
-3. **CTA** (1-2 sentences): Call-to-action (trial, resource, related content)
-4. **Forward-looking** (optional, 1 sentence): Encouraging final thought
+**Standard Structure** (100-150 words):
+1. **Recap**: Key points summary
+2. **Benefit reminder**: Why this matters
+3. **CTA**: Clear next action
+4. **Forward-looking**: Encouraging close
 
 ---
 
@@ -224,8 +223,8 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 ### Meta Titles
 - 50-60 characters including spaces
 - Include primary keyword
-- Include "| Castos" if space allows
 - No ending punctuation
+- Format: "Primary Keyword: Benefit | RustCasino"
 
 ### Meta Descriptions
 - 150-160 characters including spaces
@@ -238,31 +237,24 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 - Hyphens between words
 - Include primary keyword
 - 3-5 words ideal
-- Format: `/blog/primary-keyword-phrase`
+- Format: `/primary-keyword-phrase`
 
 ### Alt Text
 - Describe what image shows
 - Include keyword naturally if relevant
 - 125 characters or less
-- No "image of" or "picture of" (implied)
+- No "image of" or "picture of"
 
 ---
 
 ## Dates & Time
 
 **Date Format**:
-- Month DD, YYYY (January 15, 2025)
-- Or: DD Month YYYY (15 January 2025)
-- **Decision**: [Choose one]
+- **Decision**: Month DD, YYYY (December 11, 2025)
 
 **Time**:
-- 12-hour format with a.m./p.m.: 3:00 p.m.
-- Or: 24-hour format: 15:00
-- **Decision**: [Choose one]
-
-**Time Zones**:
-- Specify when relevant: "3:00 p.m. EST"
-- Or use: "3:00 p.m. Eastern Time"
+- 12-hour format: 3:00 PM
+- Include timezone when relevant: 3:00 PM EST
 
 ---
 
@@ -272,64 +264,57 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 - Always cite statistics with sources
 - Format: "According to [Source], [statistic]."
 - Link to original source when possible
-- Include year of data: "In 2024, podcast listeners reached..."
+- Include year: "In 2025, Rust had over..."
 
 ### Presenting Numbers
-- Round large numbers for readability: "1.2 million" not "1,234,567"
-- Use % symbol: 15% (not "percent")
-- Use $ for money: $500 (not "dollars")
-- Include commas: 10,000 not 10000
-
----
-
-## Images & Media
-
-### Image Captions
-- [ ] Required for all images
-- [ ] Optional, only when needed for context
-- **Decision**: [Choose one]
-
-**Caption Style**:
-- Sentence case
-- End with period if complete sentence
-- Placement: Below image
-
-### Screenshots
-- Include relevant screenshots when helpful
-- Crop to show only relevant portion
-- Add arrows/highlights if needed to draw attention
-- Alt text should describe what's shown
-
-### Charts & Graphs
-- Include data visualization when it helps understanding
-- Keep design simple and clean
-- Always provide context in surrounding text
-- Alt text should describe the key finding, not just "chart"
+- Round large numbers: "1.2 million" not "1,234,567"
+- Use % symbol: 15%
+- Use $ for money: $500
+- Include commas: 10,000
 
 ---
 
 ## Brand-Specific Guidelines
 
-### Castos Product References
+### RustCasino Product References
 
-**Castos Platform**:
-- "Castos" (not "the Castos platform" unless needed for clarity)
-- "Castos analytics dashboard"
-- [Add other product-specific terms]
+**Platform Name**:
+- "RustCasino" (one word, not "Rust Casino")
+- First mention in article: "RustCasino"
+- Subsequent: "RustCasino" or "our platform"
+
+**Game References**:
+- Cases: "Open cases on RustCasino"
+- Case Battles: "Challenge others in Case Battles"
+- Roulette: "Spin the wheel in Roulette"
+- Coinflip: "Go head-to-head in Coinflip"
+- Jackpot: "Enter the Jackpot for massive prizes"
+- Blackjack: "Play Blackjack against the house"
 
 **Features**:
-- [List how to refer to specific features]
-- [Capitalization conventions for features]
+- Provably Fair: Capitalize when referring to the system name
+- Instant Withdrawals: Can be capitalized as a feature name
 
 ### Competitor References
-- [ ] Name competitors directly when relevant
-- [ ] Use generic terms ("other podcast hosts")
-- **Decision**: [Choose approach]
+- **Decision**: Use generic terms ("other Rust gambling sites")
+- Don't name competitors directly
+- Focus on RustCasino benefits, not competitor criticism
 
-**If Naming Competitors**:
-- Be fair and factual
-- No disparaging language
-- Focus on differentiation, not criticism
+---
+
+## Responsible Gambling
+
+### Required Language
+Include in appropriate content:
+- "Gamble responsibly"
+- "18+ only"
+- "Only gamble what you can afford to lose"
+
+### Tone
+- Never encourage excessive gambling
+- Never promise guaranteed wins
+- Present gambling as entertainment, not income
+- Acknowledge house edge exists
 
 ---
 
@@ -338,31 +323,29 @@ Fill in this template with Castos-specific style preferences. Update as the styl
 ### Screen Reader Friendly
 - Descriptive link text (not "click here")
 - Image alt text for all images
-- Proper heading hierarchy (H1→H2→H3, no skipping)
-- Descriptive link previews
+- Proper heading hierarchy (H1>H2>H3, no skipping)
 
 ### Plain Language
 - Write at 8th-10th grade level
-- Define technical terms on first use
+- Define technical terms on first use (if not common in community)
 - Use short sentences and paragraphs
-- Break complex ideas into digestible chunks
 
 ---
 
 ## Voice & Tone Reminders
 
 ### Core Voice Characteristics
-1. Professional yet approachable
-2. Educational and empowering
-3. Podcast creator advocate
-4. Technically accurate but accessible
-5. Results and growth-focused
+1. Exciting but not hyped
+2. Trustworthy and transparent
+3. Community-focused and relatable
+4. Value-driven and specific
+5. Casual but credible
 
 ### Tone Variations
-- **How-to content**: Instructive, step-by-step, encouraging
-- **Strategic content**: Authoritative, experienced, actionable
-- **Industry news**: Insightful, analytical, forward-looking
-- **Product content**: Benefit-focused, clear, honest
+- **Game content**: Excited, action-oriented
+- **Trust content**: Direct, technical, confident
+- **FAQ content**: Helpful, clear, patient
+- **Homepage content**: Balanced excitement and credibility
 
 ---
 
@@ -373,47 +356,41 @@ Before publishing any content:
 **Grammar & Mechanics**:
 - [ ] Spelling checked
 - [ ] Grammar checked
-- [ ] Punctuation correct (Oxford comma, em dashes, etc.)
+- [ ] Punctuation correct (Oxford comma, em dashes)
 - [ ] Numbers formatted consistently
-- [ ] Dates formatted correctly
+- [ ] RustCasino spelled correctly (one word)
 
 **Style**:
-- [ ] Follows capitalization guidelines
-- [ ] Uses preferred terminology
-- [ ] Consistent formatting (bold, italics, lists)
+- [ ] Title Case for headlines
+- [ ] Preferred terminology used
+- [ ] Gaming language natural
 - [ ] Links are descriptive
 - [ ] Voice and tone appropriate
 
 **Structure**:
-- [ ] Strong introduction (hook, problem, promise)
+- [ ] Strong introduction with keyword
 - [ ] Logical section flow
 - [ ] Proper heading hierarchy
 - [ ] Effective conclusion with CTA
-- [ ] Appropriate section lengths
+- [ ] Sections 150-400 words
 
 **SEO**:
 - [ ] Keyword integrated naturally
 - [ ] Meta elements optimized
-- [ ] Internal and external links included
+- [ ] Internal links included
 - [ ] Images have alt text
 - [ ] URL slug optimized
 
 **Quality**:
 - [ ] Factually accurate
-- [ ] Sources cited
+- [ ] Responsible gambling language included
 - [ ] No broken links
 - [ ] Provides genuine value
 - [ ] Ready for publication
 
 ---
 
-## Updates & Maintenance
-
 **Style Guide Version**: 1.0
-**Last Updated**: [Date]
-**Next Review**: [Date]
+**Last Updated**: December 2025
 
-This style guide is a living document. Update as Castos brand and voice evolve.
-
-**Questions or Additions?**
-If you encounter a style question not covered here, make a decision, document it, and add it to this guide for future reference.
+This style guide is a living document. Update as RustCasino brand evolves.

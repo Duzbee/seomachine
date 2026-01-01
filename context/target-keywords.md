@@ -1,375 +1,332 @@
 # Target Keywords & Topic Clusters
 
-This document organizes Castos's target keywords by topic cluster for strategic content planning and SEO optimization.
-
-## Instructions
-Fill in this template with your target keywords organized by topic cluster. Update regularly based on keyword research and content performance.
+This document organizes RustCasino's target keywords by topic cluster for strategic content planning and SEO optimization.
 
 ---
 
-## Topic Cluster Structure
-
-Each topic cluster should have:
-- **Pillar Keyword**: Main, high-volume keyword (typically competitive)
-- **Cluster Keywords**: 5-10 related keywords (subtopics)
-- **Long-Tail Keywords**: 10-15 specific, lower-volume phrases
-- **Search Intent**: What users want (informational, commercial, transactional)
-
----
-
-## Cluster 1: Podcast Hosting
+## Cluster 1: Rust Gambling (Primary Cluster)
 
 ### Pillar Keyword
-- **Keyword**: podcast hosting
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
+- **Keyword**: rust gambling
+- **Search Volume**: High (primary target)
+- **Difficulty**: Medium-High
+- **Intent**: Commercial/Transactional
+- **Current Ranking**: To improve
+- **Pillar Content URL**: Homepage (rustcasino.com)
+
+### Cluster Keywords (Subtopics)
+1. **rust gambling sites**
+   - Volume: High
+   - Difficulty: Medium-High
+   - Intent: Commercial
+   - Content: Homepage
+
+2. **rust skin gambling**
+   - Volume: Medium
+   - Difficulty: Medium
+   - Intent: Commercial
+   - Content: Homepage
+
+3. **rust casino**
+   - Volume: High
+   - Difficulty: Medium
+   - Intent: Navigational/Commercial
+   - Content: Homepage (brand term)
+
+4. **rust betting**
+   - Volume: Medium
+   - Difficulty: Medium
+   - Intent: Commercial
+   - Content: Homepage
+
+5. **rust gambling website**
+   - Volume: Medium
+   - Difficulty: Medium
+   - Intent: Commercial
+   - Content: Homepage
+
+6. **best rust gambling site**
+   - Volume: Medium
+   - Difficulty: Medium-High
+   - Intent: Commercial
+   - Content: Homepage
+
+### Long-Tail Keywords
+- rust gambling with skins
+- rust skin betting sites
+- gamble rust skins
+- rust gambling provably fair
+- rust gambling instant withdrawal
+- rust gambling low house edge
+- rust gambling case opening
+- rust gambling coinflip
+- rust gambling roulette
+- how to gamble rust skins
+- where to gamble rust skins
+- trusted rust gambling sites
+- legit rust gambling
+- safe rust gambling sites
+
+### Related Questions (People Also Ask) - FAQ Content
+- What is Rust gambling?
+- Is Rust gambling legal?
+- How does Rust skin gambling work?
+- What is provably fair in Rust gambling?
+- Can you make money from Rust gambling?
+- How do I deposit skins for Rust gambling?
+- How do I withdraw from Rust gambling sites?
+- What is the house edge on Rust gambling?
+- Are Rust gambling sites safe?
+- What games can you play on Rust gambling sites?
+
+---
+
+## Cluster 2: Rust Cases
+
+### Pillar Keyword
+- **Keyword**: rust cases
+- **Search Volume**: Medium
+- **Difficulty**: Medium
 - **Intent**: Commercial
-- **Current Ranking**: [position if known]
-- **Pillar Content URL**: [URL of main guide]
-
-### Cluster Keywords (Subtopics)
-1. **best podcast hosting**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL if exists, or "Not yet created"]
-
-2. **podcast hosting platform**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-3. **podcast hosting comparison**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-4. **free podcast hosting**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-5. **podcast hosting pricing**
-   - Volume: [searches]
-   - Difficulty: [level]
-   - Content: [URL or status]
-
-[Add 5-10 cluster keywords total]
-
-### Long-Tail Keywords
-- how to choose a podcast host
-- podcast hosting for beginners
-- podcast hosting with unlimited bandwidth
-- podcast hosting that includes a website
-- difference between podcast hosting and website hosting
-- what to look for in a podcast host
-- podcast hosting for multiple shows
-- [Add 10-15 long-tail variations]
-
-### Related Questions (People Also Ask)
-- What is podcast hosting?
-- Do I need podcast hosting?
-- How much does podcast hosting cost?
-- Can I host my podcast for free?
-- [Add questions from PAA boxes]
-
----
-
-## Cluster 2: Podcast Analytics
-
-### Pillar Keyword
-- **Keyword**: podcast analytics
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Informational
-- **Current Ranking**: [position if known]
-- **Pillar Content URL**: [URL or "To create"]
-
-### Cluster Keywords (Subtopics)
-1. **podcast metrics**
-2. **podcast download statistics**
-3. **podcast listener data**
-4. **podcast performance tracking**
-5. **podcast growth metrics**
-[Continue with 5-10 cluster keywords]
-
-### Long-Tail Keywords
-- how to track podcast analytics
-- understanding podcast download numbers
-- most important podcast metrics
-- how to measure podcast success
-- podcast analytics tools
-[Add 10-15 long-tail variations]
-
-### Related Questions
-[Add PAA questions]
-
----
-
-## Cluster 3: Podcast Growth
-
-### Pillar Keyword
-- **Keyword**: grow podcast audience
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
+- **Current Ranking**: N/A
+- **Pillar Content URL**: /cases
 
 ### Cluster Keywords
-1. **podcast growth strategies**
-2. **increase podcast downloads**
-3. **podcast marketing**
-4. **podcast promotion**
-5. **podcast audience development**
-[Continue with cluster keywords]
+1. **rust case opening**
+2. **rust skin cases**
+3. **open rust cases**
+4. **rust case unboxing**
+5. **rust gambling cases**
 
 ### Long-Tail Keywords
-- how to get more podcast listeners
-- promote your podcast free
-- grow podcast audience fast
-- podcast growth tips for beginners
-[Add long-tail variations]
+- best rust case opening site
+- rust case opening with real skins
+- rust cases provably fair
+- cheap rust cases
+- rust case drop rates
 
 ### Related Questions
-[Add PAA questions]
+- How do Rust cases work?
+- What skins can you get from Rust cases?
+- Are Rust case sites fair?
 
 ---
 
-## Cluster 4: Podcast Monetization
+## Cluster 3: Rust Case Battles
 
 ### Pillar Keyword
-- **Keyword**: podcast monetization
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Commercial/Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
+- **Keyword**: rust case battles
+- **Search Volume**: Medium
+- **Difficulty**: Low-Medium
+- **Intent**: Commercial
+- **Current Ranking**: N/A
+- **Pillar Content URL**: /case-battles
 
 ### Cluster Keywords
-1. **how to monetize a podcast**
-2. **podcast advertising**
-3. **podcast sponsorships**
-4. **make money podcasting**
-5. **podcast revenue streams**
-[Continue]
+1. **rust case battle sites**
+2. **case battles rust gambling**
+3. **rust pvp case opening**
+4. **rust case battle**
 
 ### Long-Tail Keywords
-[Add 10-15 variations]
+- best rust case battle site
+- rust case battles provably fair
+- how to win rust case battles
+- rust case battles strategy
 
 ### Related Questions
-[Add PAA questions]
+- What are Case Battles?
+- How do Rust Case Battles work?
+- Can you win in Case Battles?
 
 ---
 
-## Cluster 5: Starting a Podcast
+## Cluster 4: Provably Fair (Trust Cluster)
 
 ### Pillar Keyword
-- **Keyword**: how to start a podcast
-- **Search Volume**: [monthly searches]
-- **Difficulty**: [competition level]
-- **Intent**: Informational
-- **Current Ranking**: [position]
-- **Pillar Content URL**: [URL or status]
+- **Keyword**: provably fair rust gambling
+- **Search Volume**: Low-Medium
+- **Difficulty**: Low
+- **Intent**: Informational/Commercial
+- **Current Ranking**: N/A
+- **Pillar Content URL**: To be created or FAQ section
 
 ### Cluster Keywords
-1. **podcast equipment**
-2. **podcast recording software**
-3. **podcast editing**
-4. **podcast launch checklist**
-5. **podcast setup**
-[Continue]
+1. **provably fair gambling**
+2. **rust gambling fair**
+3. **verify rust gambling**
+4. **rust gambling seeds**
 
 ### Long-Tail Keywords
-[Add variations]
+- how does provably fair work
+- provably fair algorithm
+- verify gambling results
+- server seed client seed explained
+- is rust gambling rigged
 
 ### Related Questions
-[Add PAA questions]
+- What does provably fair mean?
+- How do I verify provably fair?
+- Can gambling sites cheat provably fair?
 
 ---
 
-## Cluster 6: [Additional Cluster]
+## Cluster 5: Rust Gambling Games
 
-[Follow same format for:]
-- Podcast SEO
-- Podcast Distribution
-- Podcast Equipment
-- Podcast Editing
-- Podcast Formats
-- Private Podcasting
-- Podcast for Business
-- etc.
+### Keywords by Game Type
 
----
+**Rust Roulette**:
+- rust roulette
+- rust gambling roulette
+- rust skin roulette
 
-## Seasonal/Trending Keywords
+**Rust Coinflip**:
+- rust coinflip
+- rust gambling coinflip
+- rust skin coinflip
 
-### Q1 Keywords (Jan-Mar)
-- New year podcast goals
-- Podcast trends 2025
-- [Add seasonal opportunities]
+**Rust Jackpot**:
+- rust jackpot
+- rust gambling jackpot
+- rust skin jackpot
 
-### Q2 Keywords (Apr-Jun)
-[Add seasonal keywords]
-
-### Q3 Keywords (Jul-Sep)
-[Add seasonal keywords]
-
-### Q4 Keywords (Oct-Dec)
-[Add seasonal keywords]
+**Rust Blackjack**:
+- rust blackjack
+- rust gambling blackjack
+- rust skin blackjack
 
 ---
 
 ## Competitor Keyword Gaps
 
-Track keywords where competitors rank but Castos doesn't:
-
-### Competitor: [Name]
-- **Keyword**: [keyword they rank for]
-  - Their Position: [rank]
-  - Castos Position: [rank or "Not ranking"]
-  - Opportunity: [High/Medium/Low]
-  - Action: [Create content, optimize existing, etc.]
-
-[Add more competitors and gaps]
+### Opportunities to Target
+- **rust gambling 2025**: Timely, update-focused content
+- **rust gambling guide**: Educational content opportunity
+- **rust gambling tips**: Beginner-focused content
+- **rust gambling discord**: Community angle
+- **rust gambling bonus codes**: Promotional content
 
 ---
 
 ## Keyword Opportunity Pipeline
 
-### High Priority (Create Soon)
-Keywords with high volume, achievable difficulty, strong business value:
+### High Priority (Homepage Focus)
+1. **rust gambling** - Primary target
+2. **rust gambling sites** - Close variant
+3. **rust skin gambling** - Specific variant
+4. **rust casino** - Brand + keyword
+5. **best rust gambling site** - Competitive positioning
 
-1. **Keyword**: [keyword]
-   - Volume: [searches]
-   - Difficulty: [score]
-   - Intent: [type]
-   - Why Priority: [strategic reason]
-   - Action: [Create pillar content / cluster article / etc.]
+### Medium Priority (Game Pages)
+- rust cases
+- rust case battles
+- rust roulette
+- rust coinflip
+- rust jackpot
+- rust blackjack
 
-[List 5-10 high-priority keywords]
-
-### Medium Priority (Next Quarter)
-[List keywords to target in next 3 months]
-
-### Low Priority (Future Consideration)
-[List keywords for future content planning]
-
----
-
-## Keyword Tracking & Performance
-
-### Top Performing Keywords
-Keywords where Castos ranks in positions 1-10:
-
-1. **Keyword**: [keyword]
-   - Position: [current rank]
-   - Volume: [searches]
-   - URL: [ranking page]
-   - Trend: [↑ Rising / → Stable / ↓ Declining]
-
-[List current winners]
-
-### Keywords to Improve
-Keywords ranking 11-20 (page 2) with opportunity:
-
-1. **Keyword**: [keyword]
-   - Position: [current rank]
-   - Volume: [searches]
-   - URL: [ranking page]
-   - Action Needed: [Update content, build links, etc.]
-
-[List improvement opportunities]
-
----
-
-## Keyword Cannibalization Check
-
-Track multiple pages targeting same/similar keywords:
-
-### Potential Cannibalization Issues
-
-**Keyword**: [keyword]
-- Page 1: [URL] - Position [rank]
-- Page 2: [URL] - Position [rank]
-- **Issue**: Both pages competing for same keyword
-- **Solution**: [Consolidate, differentiate, redirect, etc.]
-
-[Monitor and document conflicts]
+### Low Priority (Future Content)
+- rust gambling guide
+- rust gambling tips
+- provably fair explained
 
 ---
 
 ## LSI & Semantic Keywords
 
-Common related terms to include across podcasting content:
+### Gambling Terms
+- house edge
+- odds
+- payout
+- multiplier
+- bet
+- wager
+- win
+- jackpot
+- deposit
+- withdraw
 
-### Podcast Industry Terms
-- RSS feed
-- podcast directory
-- podcast app
-- podcast player
-- episode
-- show notes
-- audio content
-- podcast network
-[Add more]
+### Rust/Gaming Terms
+- skins
+- inventory
+- Steam
+- trade
+- items
+- cosmetics
+- AK
+- rare skins
+- Facepunch
 
-### Podcast Creation Terms
-- recording
-- editing
-- post-production
-- audio quality
-- microphone
-- podcast equipment
-[Add more]
+### Trust Terms
+- provably fair
+- legitimate
+- safe
+- secure
+- trusted
+- verified
+- transparent
+- licensed (if applicable)
 
-### Podcast Growth Terms
-- downloads
-- listeners
-- audience
-- subscribers
-- engagement
-- retention
-[Add more]
+### Action Terms
+- open
+- spin
+- flip
+- play
+- win
+- bet
+- enter
+- join
+
+---
+
+## FAQ Keywords for Schema
+
+These questions should be answered in the FAQ section and marked up with FAQ schema:
+
+1. What is Rust gambling?
+2. How does Rust gambling work?
+3. Is Rust gambling safe?
+4. What is provably fair?
+5. How do I deposit skins?
+6. How do I withdraw winnings?
+7. What games are available?
+8. What is the house edge?
+9. Can I verify game outcomes?
+10. Is RustCasino legitimate?
 
 ---
 
 ## Usage Guidelines
 
-### When Writing New Content
-1. Check which cluster the topic belongs to
-2. Target the appropriate cluster or long-tail keyword
-3. Reference pillar content in that cluster
-4. Include LSI keywords naturally
-5. Link to related cluster articles
+### When Writing Homepage Content
+1. Target "rust gambling" as primary keyword
+2. Naturally include long-tail variants
+3. Answer FAQ questions in content
+4. Use LSI keywords throughout
+5. Link to all game pages
 
-### When Optimizing Existing Content
-1. Verify content targets the right keyword
-2. Check for cannibalization with other pages
-3. Ensure keyword appears in critical locations
-4. Update if search intent has shifted
-5. Add internal links to/from related cluster content
+### Keyword Density Targets
+- Primary keyword (rust gambling): 1-2%
+- Secondary keywords: 0.5-1% each
+- LSI keywords: Natural distribution
 
-### When Planning Content Calendar
-1. Review keyword opportunity pipeline
-2. Prioritize high-value, achievable keywords
-3. Build out topic clusters systematically
-4. Balance pillar content with cluster articles
-5. Track keyword performance over time
+### Content Structure for Keywords
+- H1: Include "rust gambling"
+- H2s: Include keyword variants
+- First 100 words: Include primary keyword
+- Last paragraph: Include primary keyword
+- Meta title: Include "rust gambling"
+- Meta description: Include "rust gambling"
 
 ---
 
 ## Maintenance
 
-**Last Updated**: [Date]
-**Next Review**: [Date - quarterly recommended]
+**Last Updated**: December 2025
+**Next Review**: Quarterly
 
 **Regular Updates**:
-- Add new keyword opportunities monthly
-- Track ranking changes monthly
-- Update volumes/difficulty quarterly
-- Review competitor gaps quarterly
-- Refine clusters based on performance
-
----
-
-**Note**: This is a living document. As you conduct keyword research, track performance, and identify new opportunities, update this file to keep your SEO strategy aligned with your content creation.
+- Monitor ranking changes monthly
+- Add new keyword opportunities
+- Track competitor movements
+- Update based on SERP analysis

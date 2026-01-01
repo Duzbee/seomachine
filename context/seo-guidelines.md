@@ -1,73 +1,67 @@
-# SEO Guidelines for Castos Content
+# SEO Guidelines for RustCasino Content
 
-This document outlines SEO best practices and requirements for all Castos blog content to maximize organic search visibility and rankings.
+This document outlines SEO best practices and requirements for all RustCasino content to maximize organic search visibility and rankings.
 
 ## Content Length Requirements
 
 ### Target Word Counts
-- **Standard Blog Post**: 1,500-3,000 words (target: 2,000-2,500)
-- **Pillar Content / Comprehensive Guides**: 3,000-5,000 words maximum
-- **How-To Guides**: 1,500-2,500 words
-- **News / Updates**: 800-1,200 words (exception to standard)
+- **Homepage Article**: Length determined by SERP analysis of top competitors
+- **Standard Blog Post**: 1,500-2,500 words
+- **Game Page Content**: 500-1,000 words
+- **FAQ Sections**: Comprehensive answers (50-150 words each)
 
 ### Important Length Guidelines
-- **Maximum for most articles**: 3,000 words
-- **Maximum for pillar content**: 5,000 words
-- If a topic requires more than the maximum, break it into a series of related articles
-- Aim for the lower end of ranges when possible—concise, focused content often performs better
+- **SERP-Driven Length**: For primary keywords like "rust gambling", analyze top 10 competitors to determine optimal length
+- **Quality over padding**: Every word should add value
+- **Comprehensive coverage**: Cover all aspects users search for
+- **FAQ completeness**: Answer all common questions thoroughly
 
 ### Why Length Matters
-- Longer content typically ranks higher in search results
-- More words = more opportunities for keyword integration and topic coverage
-- Comprehensive content earns more backlinks and engagement
-- Depth signals expertise and authority to search engines
-
-### Quality Over Quantity
-- Don't add fluff just to hit word counts
-- Every section should provide genuine value
-- Better to have 2,000 valuable words than 3,000 padded words
-- **Stay within the maximum word counts**—overly long articles hurt user experience
+- Longer, comprehensive content typically ranks higher
+- More words = more keyword opportunities
+- Thorough content signals expertise
+- Users looking for gambling info want complete answers
 
 ## Keyword Optimization
 
 ### Keyword Research Requirements
 Before writing any article:
 1. Identify primary target keyword
-2. Research search volume and difficulty
-3. Analyze top 10 ranking competitors
-4. Identify 3-5 secondary/related keywords
-5. List LSI (Latent Semantic Indexing) keywords
+2. Analyze top 10 SERP competitors
+3. Identify 3-5 secondary/related keywords
+4. List LSI (Latent Semantic Indexing) keywords
+5. Gather FAQ questions from "People Also Ask"
 
 ### Keyword Density Guidelines
 - **Primary Keyword**: 1-2% density
-  - Example: In a 2,000-word article, use keyword 20-40 times
-  - Natural integration is critical—never force keywords
+  - Natural integration is critical -- never force keywords
+  - Use variations to avoid repetition
 - **Secondary Keywords**: 0.5-1% density each
 - **LSI Keywords**: Sprinkle throughout naturally
 
 ### Critical Keyword Placement
 Primary keyword MUST appear in:
-- [ ] H1 headline (preferably near the beginning)
+- [ ] H1 headline (near the beginning)
 - [ ] First 100 words of article
 - [ ] At least 2-3 H2 subheadings
 - [ ] Last paragraph / conclusion
 - [ ] Meta title (within first 60 characters)
 - [ ] Meta description
-- [ ] URL slug
+- [ ] URL slug (for non-homepage content)
 
 ### Keyword Integration Best Practices
 - **Natural language first**: Write for humans, optimize for search engines
 - **Use variations**: Don't repeat exact phrase robotically
-  - Example: "podcast hosting" → "hosting your podcast" → "podcast host"
+  - Example: "rust gambling" > "Rust skin gambling" > "gambling with Rust skins"
 - **Question formats**: Include conversational variations
-  - "How to start a podcast" vs "starting a podcast"
+  - "What is Rust gambling" vs "Rust gambling explained"
 - **Semantic keywords**: Use related terms to support topical authority
-  - For "podcast editing": include "audio editing", "post-production", "editing workflow"
+  - For "rust gambling": include "skins", "cases", "provably fair", "house edge"
 
 ### Keyword Stuffing (Avoid)
-❌ "Podcast hosting is important. Podcast hosting helps podcasters. Our podcast hosting platform offers podcast hosting services for podcast hosting needs."
+Bad: "Rust gambling is the best rust gambling for rust gambling fans who love rust gambling on rust gambling sites."
 
-✅ "Podcast hosting is important for creators who want to distribute their show to major platforms. A reliable host ensures your episodes are accessible wherever listeners discover new content."
+Good: "Rust gambling combines the excitement of casino games with the value of your skin collection. From case opening to competitive battles, there's a game for every player."
 
 ## Content Structure Requirements
 
@@ -78,366 +72,308 @@ Primary keyword MUST appear in:
 - Include primary keyword naturally
 - 60 characters or less (for SERP display)
 - Compelling and benefit-focused
-- Should answer: "What will I learn/gain from this?"
 
 #### H2 (Main Sections)
-- **4-7 H2 sections** for standard articles
+- **4-8 H2 sections** for comprehensive articles
 - At least **2-3 should include keyword variations**
 - Descriptive and keyword-rich
 - Logical progression through topic
-- Can be standalone (readers should understand flow from H2s alone)
 
 #### H3 (Subsections)
 - Nested under H2s (never skip from H2 to H4)
 - Break complex sections into digestible chunks
-- Include keywords where natural
-- More specific than H2s
+- Great for game explanations, FAQ answers
 
-### Article Structure Template
+### Article Structure Template for Homepage
 
 ```markdown
-# [H1: Compelling Title with Primary Keyword]
+# [H1: Compelling Title with "Rust Gambling"]
 
-## Introduction (150-250 words)
-- Hook: Attention-grabbing opening
-- Problem: What challenge does this address?
-- Promise: What will reader learn/achieve?
+## Introduction (150-200 words)
+- Hook: Attention-grabbing opening about Rust gambling
+- Value proposition: Why RustCasino
+- Promise: What reader will learn
 - Keyword in first 100 words
 
-## [H2: Main Section 1 - Include Keyword Variation]
-### [H3: Subsection if needed]
-- Content depth
-- Examples
-- Data/statistics
+## [H2: What is Rust Gambling?] (Definition section)
+- Clear definition
+- How it works overview
+- Why players love it
 
-## [H2: Main Section 2]
-### [H3: Subsection if needed]
-- Content depth
-- Examples
-- Data/statistics
+## [H2: Games Available at RustCasino]
+### [H3: Cases]
+### [H3: Case Battles]
+### [H3: Roulette]
+### [H3: Coinflip]
+### [H3: Jackpot]
+### [H3: Blackjack]
 
-## [H2: Main Section 3 - Include Keyword Variation]
-### [H3: Subsection if needed]
-- Content depth
-- Examples
-- Data/statistics
+## [H2: Why Choose RustCasino for Rust Gambling]
+- Provably fair
+- Best odds/low house edge
+- Instant withdrawals
+- Game variety
 
-## [H2: Main Section 4]
-[Continue with 4-7 total H2 sections]
+## [H2: How Provably Fair Works]
+- Explanation
+- Verification process
+- Trust building
 
-## Conclusion (150-250 words)
-- Recap key points (3-5 takeaways)
+## [H2: Getting Started with Rust Gambling]
+- Deposit process
+- Game selection
+- Withdrawal
+
+## [H2: Frequently Asked Questions]
+### [H3: Question 1]
+### [H3: Question 2]
+(8-10 FAQ items)
+
+## Conclusion
+- Recap key points
 - Include keyword
-- Clear call-to-action
-- Next steps for reader
+- CTA to start playing
 ```
 
 ## Meta Elements
 
 ### Meta Title
 **Requirements**:
-- **Length**: 50-60 characters (including "| Castos" if used)
-- **Primary keyword**: Must be included
+- **Length**: 50-60 characters
+- **Primary keyword**: Must be included (preferably at start)
 - **Compelling**: Should encourage clicks from SERP
-- **Unique**: Different from all other Castos page titles
-- **Accurate**: Must match page content
+- **Unique**: Different from all other pages
 
 **Format Options**:
-- `[Primary Keyword]: [Benefit/Promise]`
-- `How to [Goal] | [Qualifier]`
-- `[Number] Ways to [Achieve Benefit]`
-- `[Topic] Guide for [Audience] | Castos`
+- `Rust Gambling: [Benefit] | RustCasino`
+- `[Number] Rust Gambling Games | RustCasino`
+- `Rust Gambling Site | [USP] | RustCasino`
 
 **Examples**:
-- ✅ "How to Start a Podcast in 2025: Complete Guide"
-- ✅ "12 Proven Podcast Growth Strategies | Castos"
-- ❌ "Podcast Tips and Tricks" (too vague, no keyword)
-- ❌ "The Ultimate Comprehensive Guide to Everything About Starting Your First Podcast Successfully" (too long)
+- "Rust Gambling | Provably Fair Games | RustCasino" (54 chars)
+- "Rust Gambling Site | Cases, Roulette & More" (44 chars)
+- "Best Rust Gambling | Low House Edge | RustCasino" (48 chars)
 
 ### Meta Description
 **Requirements**:
 - **Length**: 150-160 characters
 - **Primary keyword**: Include naturally
 - **Value proposition**: Clear benefit to reader
-- **Call-to-action**: Action phrase (Learn, Discover, Find out, Get, etc.)
-- **Complete**: Must not cut off mid-sentence
-- **Compelling**: Should drive clicks from SERP
+- **Call-to-action**: Action phrase
 
 **Formula**:
 ```
-[Problem/Question]? [Solution/Benefit]. [Unique angle]. [CTA].
+[Hook about Rust gambling]. [Key benefit 1 & 2]. [CTA].
 ```
 
 **Examples**:
-- ✅ "Learn how to start a podcast with our step-by-step guide. Everything from equipment to launch strategy. Perfect for beginners. Start your show today." (159 chars)
-- ✅ "Discover 12 proven podcast growth strategies that top creators use. Increase downloads, engagement, and audience loyalty. Actionable tips inside." (155 chars)
-- ❌ "This is a blog post about podcasting where we discuss many podcast-related topics." (vague, no value prop, no CTA)
+- "Experience the best Rust gambling with provably fair games, low house edge, and instant withdrawals. Cases, roulette, coinflip & more. Start playing now." (156 chars)
+- "Rust gambling done right. 6 game modes, provably fair outcomes, instant withdrawals. Join thousands of players at RustCasino today." (133 chars)
 
 ### URL Slug
 **Requirements**:
-- Include primary keyword
-- Lowercase letters only
-- Hyphens between words (not underscores)
-- Short and descriptive (3-5 words ideal)
-- No stop words unless necessary (a, the, and, of, etc.)
-
-**Format**: `/blog/[primary-keyword-phrase]`
-
-**Examples**:
-- ✅ `/blog/start-podcast-guide`
-- ✅ `/blog/podcast-growth-strategies`
-- ✅ `/blog/podcast-editing-software`
-- ❌ `/blog/how-to-start-a-podcast-in-2025-the-complete-guide` (too long)
-- ❌ `/blog/post-12345` (no keywords)
+- Homepage: N/A (root domain)
+- Game pages: `/cases`, `/roulette`, etc.
+- Blog content: `/blog/keyword-phrase`
 
 ## Internal Linking Strategy
 
-### Requirements
-- **Minimum**: 3 internal links per article
-- **Optimal**: 4-5 internal links
-- **Maximum**: 7 internal links (unless 3,000+ word article)
+### Requirements for Homepage Article
+- **All 8 pages must be linked**: cases, case-battles, roulette, coinflip, jackpot, blackjack, wiki, inventory
+- **Natural context**: Link when discussing the topic
+- **Varied anchor text**: Don't use same phrase repeatedly
 
 ### Link Types to Include
 
-#### 1. Pillar Content (1-2 links)
-- Link to main comprehensive guides on related topics
-- Builds topic cluster authority
-- Usually 2,000+ word cornerstone content
+#### Game Pages (Primary)
+- Link to each game when mentioned
+- Natural anchor text: "open cases", "try Coinflip", "play Blackjack"
 
-#### 2. Related Blog Posts (2-3 links)
-- Link to articles on related subtopics
-- Creates content web
-- Helps readers explore topics comprehensively
-
-#### 3. Product/Feature Pages (0-1 link)
-- Only when contextually relevant
-- Natural mention of how Castos solves problem
-- Never forced or overly promotional
-
-#### 4. Resource Pages (0-1 link)
-- Templates, tools, checklists
-- When mentioned as solutions in content
-- Provides additional value to reader
+#### Resource Pages
+- Wiki: Link when discussing skins/items
+- Inventory: Link when discussing depositing or skin value
 
 ### Internal Linking Best Practices
 
 **Anchor Text**:
-- ✅ Descriptive and keyword-rich: "our complete guide to podcast analytics"
-- ✅ Natural in sentence flow: "Learn more about podcast SEO strategies"
-- ❌ Generic: "click here" or "read more"
-- ❌ Exact match repeatedly: Always using same anchor text for same page
+- Descriptive and keyword-rich: "our Roulette game"
+- Natural in sentence flow: "compete in Case Battles"
+- Never: "click here" or "read more"
 
 **Placement**:
-- Within body paragraphs (most valuable)
-- Natural context that adds value to reader
-- Never more than 2 links per paragraph
-- Distributed throughout article, not clustered
-
-**Reference**:
-- Always check @context/internal-links-map.md for priority linking targets
-- Ensure links are current and functional
-- Link to most relevant, up-to-date content
+- Within body paragraphs
+- Natural context that adds value
+- Distributed throughout article
 
 ## External Linking Strategy
 
 ### Requirements
-- **Minimum**: 2 external links per article
-- **Optimal**: 3-4 external authority links
-- Purpose: Add credibility, provide sources, support claims
+- **Minimum**: 1-2 external links per article
+- **Purpose**: Add credibility, cite sources
 
-### What to Link Externally
-- **Statistics and data sources**: Always cite where numbers come from
-- **Research and studies**: Link to original research
-- **Tools and resources**: When recommending specific tools
-- **Industry authorities**: Expert opinions or industry publications
+### What to Link Externally (Gambling Content)
+- Rust game official site (if referencing the game)
+- Statistics about Rust player base
+- Gambling responsibility resources (if appropriate)
 
 ### External Link Quality Standards
-- **Authority**: Link to credible, well-known sources
-  - ✅ Industry publications (Podcast Host, Podnews, etc.)
-  - ✅ Research institutions and studies
-  - ✅ Established media outlets
-  - ❌ Random blogs with no authority
-  - ❌ Spammy or low-quality sites
-
-- **Relevance**: Links must directly support content claims
-- **Freshness**: Prefer recent sources (within 1-2 years for data)
-- **Functionality**: All links must work (no broken links)
-
-### External Link Attributes
-- Most external links: No special attributes needed
-- Sponsored/affiliate links: Use `rel="sponsored"` or `rel="nofollow"`
-- User-generated content: Use `rel="nofollow"`
+- **Authority**: Link to credible sources only
+- **Relevance**: Must directly support claims
+- **Freshness**: Recent sources preferred
 
 ## Readability Optimization
 
 ### Target Reading Level
-- **Goal**: 8th-10th grade reading level (Flesch-Kincaid)
+- **Goal**: 8th-10th grade reading level
 - Makes content accessible to wider audience
-- Easier to scan and understand quickly
+- Gaming audience prefers casual, easy-to-read content
 
 ### Sentence Structure
 - **Average length**: 15-20 words per sentence
-- **Maximum**: 25 words (break longer sentences into two)
-- **Variety**: Mix short punchy sentences with longer explanatory ones
-- **Active voice**: Preferred over passive voice (80%+ active)
+- **Maximum**: 25 words (break longer sentences)
+- **Variety**: Mix short and long sentences
+- **Active voice**: 80%+ active
 
 ### Paragraph Structure
 - **Length**: 2-4 sentences per paragraph
 - **One idea**: Focus each paragraph on single point
 - **White space**: No walls of text
-- **Mobile-friendly**: Short paragraphs scan better on phones
+- **Mobile-friendly**: Short paragraphs
 
 ### Formatting for Scannability
-- **Subheadings**: Every 300-400 words
-- **Lists**: Use bullets/numbers for sequential or multiple items
-- **Bold**: Emphasize key concepts or takeaways
-- **Short paragraphs**: Easier to digest
-- **White space**: Makes content less intimidating
+- **Subheadings**: Every 200-300 words
+- **Lists**: Use bullets for features, numbers for steps
+- **Bold**: Emphasize key terms (house edge, provably fair)
+- **Short paragraphs**: Easier to scan
 
-### Transition Words
-Use transition words to improve flow (target: one per paragraph):
-- Addition: Additionally, Furthermore, Moreover
-- Contrast: However, On the other hand, Nevertheless
-- Cause/Effect: Therefore, Consequently, As a result
-- Example: For instance, For example, Specifically
-- Time: First, Next, Finally
+## FAQ Schema Requirements
+
+### Why FAQ Schema Matters
+- Increases SERP real estate
+- Captures "People Also Ask" queries
+- Builds trust with comprehensive answers
+- Improves click-through rate
+
+### FAQ Implementation
+
+**Required Questions for Homepage** (minimum 8):
+1. What is Rust gambling?
+2. How does Rust gambling work?
+3. Is Rust gambling safe?
+4. What is provably fair?
+5. How do I deposit skins?
+6. How do I withdraw winnings?
+7. What games can I play?
+8. What is the house edge?
+
+**Answer Guidelines**:
+- 50-150 words per answer
+- Direct, helpful responses
+- Include relevant keywords naturally
+- End with actionable info when relevant
+
+### JSON-LD FAQ Schema Template
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Rust gambling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Rust gambling is..."
+      }
+    }
+  ]
+}
+```
 
 ## Content Quality Standards
 
-### Expertise, Authoritativeness, Trustworthiness (E-A-T)
+### E-E-A-T for Gambling Content
+(Experience, Expertise, Authoritativeness, Trustworthiness)
+
+#### Experience
+- Write from platform perspective
+- Reference actual game features
+- Show understanding of player needs
 
 #### Expertise
-- Provide accurate, detailed information on podcasting topics
-- Back claims with data and examples
-- Demonstrate deep understanding of podcast creator needs
-- Include actionable, practical advice
+- Accurate gambling terminology
+- Correct provably fair explanations
+- Honest about house edge
 
 #### Authoritativeness
-- Cite credible sources
-- Reference industry data and trends
-- Include expert quotes when relevant
-- Leverage Castos's position as hosting platform
+- Position as established platform
+- Reference features and capabilities
+- Professional presentation
 
 #### Trustworthiness
-- Be transparent and honest
-- Acknowledge limitations or challenges
-- Don't overpromise results
-- Cite sources for all statistics and claims
-- Update outdated content regularly
+- Transparent about house edge
+- Clear provably fair explanation
+- Responsible gambling mentions
+- No overpromising
 
 ### Content Originality
 - **Never plagiarize**: All content must be original
-- **Add unique value**: What perspective or insight do we add?
-- **Fresh examples**: Use current, relevant examples
-- **Updated data**: Use most recent statistics available
-- **Unique angle**: Differentiate from competitor content
+- **Add unique value**: What makes RustCasino different?
+- **Specific examples**: Reference actual games and features
+- **Unique angle**: Focus on provably fair, best odds, instant withdrawals
 
 ### Factual Accuracy
-- **Verify statistics**: Check all numbers and data points
-- **Current information**: Ensure practices/processes are up-to-date
-- **Technical accuracy**: Podcasting terminology and processes must be correct
-- **Castos features**: Ensure product references are accurate
+- **Verify claims**: House edge numbers must be accurate
+- **Provably fair**: Technical explanation must be correct
+- **Game descriptions**: Must match actual functionality
 
 ## Image Optimization
 
 ### Image Requirements
-- **Relevant**: Images should support content points
+- **Relevant**: Game screenshots, interface images
 - **High-quality**: Professional appearance
 - **Optimized**: Compressed for fast loading
-- **Mobile-friendly**: Visible and useful on small screens
 
 ### Image SEO
-**File Names**:
-- Descriptive and keyword-rich
-- ✅ `podcast-editing-software-interface.jpg`
-- ❌ `IMG_12345.jpg`
-
 **Alt Text**:
-- Describe what image shows (accessibility + SEO)
-- Include keywords naturally where relevant
-- 125 characters or less
-- ✅ "Podcast editing software interface showing waveform and timeline"
-- ❌ "Image"
-
-**Placement**:
-- Break up long text sections
-- Illustrate concepts being discussed
-- After explaining concept, not before
-
-## Featured Snippet Optimization
-
-Featured snippets appear at position 0 in Google search results. Optimize for them when possible.
-
-### Question-Based Snippets
-- Include question as H2 heading
-- Answer concisely in 40-60 words immediately after
-- Use clear, direct language
-
-**Example**:
-```markdown
-## What is Podcast Hosting?
-
-Podcast hosting is a service that stores your audio files and generates an RSS feed that distributes your episodes to podcast platforms like Apple Podcasts, Spotify, and Google Podcasts. Without a host, listeners can't discover or access your show on their favorite apps.
-```
-
-### List-Based Snippets
-- Use numbered or bulleted lists
-- Keep items concise (1-2 sentences each)
-- Include 5-8 items typically
-
-### Table-Based Snippets
-- Use HTML tables or markdown tables
-- Comparison charts, pricing, specifications
-- Clear headers and organized data
-
-### Definition Snippets
-- Define term in first sentence after heading
-- 40-60 word clear, concise definition
-- Expand with additional detail after
+- Descriptive and keyword-relevant
+- "RustCasino Roulette game interface"
+- "Case opening animation with rare skin"
 
 ## Mobile Optimization
 
 ### Mobile-First Considerations
 - **Short paragraphs**: 2-3 sentences max
-- **Scannable**: Heavy use of subheadings and lists
-- **Large fonts**: Readable without zooming
-- **Tap-friendly links**: Adequate spacing
+- **Scannable**: Heavy use of subheadings
+- **Tap-friendly**: Adequate link spacing
 - **Fast loading**: Optimized images
 
-## Content Refresh Strategy
+## Responsible Gambling Content
 
-### When to Update Content
-- Article is 12+ months old
-- Statistics or data are outdated
-- Processes or best practices have changed
-- Competitor content has surpassed ours
-- Rankings have declined
-- New relevant information available
+### Required Elements
+- Age restriction mention (18+)
+- Gamble responsibly statement
+- House edge transparency
+- No guaranteed win promises
 
-### What to Update
-- Publication date or "Last Updated" date
-- Statistics with current data
-- Screenshots with current versions
-- Examples with recent case studies
-- SEO elements (keyword focus may have shifted)
-- Internal links to newer content
+### Tone
+- Entertainment, not income
+- Acknowledge risks exist
+- Encourage responsible play
 
-## SEO Checklist for Every Article
-
-Before publishing, verify:
+## SEO Checklist for Homepage Article
 
 ### Content
-- [ ] 2,000+ words (or appropriate for content type)
-- [ ] Primary keyword identified
+- [ ] SERP-analyzed optimal word count
+- [ ] Primary keyword "rust gambling" identified
 - [ ] Keyword density 1-2%
 - [ ] 3-5 secondary keywords included
 - [ ] LSI keywords naturally integrated
-- [ ] Provides unique value vs. competitors
-- [ ] Factually accurate and current
+- [ ] Unique value vs. competitors
 
 ### Structure
 - [ ] One H1 with primary keyword
-- [ ] 4-7 H2 sections
+- [ ] 6-8 H2 sections covering all games
 - [ ] 2-3 H2s include keyword variations
 - [ ] Proper H1>H2>H3 hierarchy
 - [ ] Keyword in first 100 words
@@ -446,54 +382,34 @@ Before publishing, verify:
 ### Meta Elements
 - [ ] Meta title 50-60 characters with keyword
 - [ ] Meta description 150-160 characters with keyword & CTA
-- [ ] URL slug includes primary keyword
 - [ ] All meta elements are unique
 
 ### Links
-- [ ] 3-5 internal links included
+- [ ] All 8 internal pages linked (cases, case-battles, roulette, coinflip, jackpot, blackjack, wiki, inventory)
 - [ ] Internal links use descriptive anchor text
-- [ ] 2-3 external authority links
-- [ ] All links functional (no broken links)
-- [ ] Links add value to reader
+- [ ] 1-2 external authority links
+- [ ] All links functional
 
 ### Readability
 - [ ] 8th-10th grade reading level
 - [ ] Average sentence length 15-20 words
 - [ ] Paragraphs 2-4 sentences
-- [ ] Subheadings every 300-400 words
+- [ ] Subheadings every 200-300 words
 - [ ] Lists used for scannability
-- [ ] Active voice predominantly
 
-### Images
-- [ ] Relevant images included
-- [ ] Descriptive file names
-- [ ] Alt text with keywords
-- [ ] Images optimized for web
+### FAQ
+- [ ] Minimum 8 FAQ questions
+- [ ] All common questions answered
+- [ ] JSON-LD FAQ schema generated
+- [ ] 50-150 words per answer
 
 ### Quality
 - [ ] No spelling or grammar errors
 - [ ] Factually accurate
-- [ ] Sources cited
 - [ ] Brand voice maintained
-- [ ] Provides actionable value
+- [ ] Responsible gambling language included
 - [ ] Clear call-to-action
-
-## SEO Tools & Resources
-
-### Recommended Tools
-- **Keyword Research**: Ahrefs, SEMrush, Google Keyword Planner
-- **Content Analysis**: Clearscope, Surfer SEO, MarketMuse
-- **Readability**: Hemingway Editor, Grammarly
-- **Technical SEO**: Screaming Frog, Google Search Console
-- **Rank Tracking**: Ahrefs, SEMrush, Google Search Console
-
-### Reference Resources
-- Google's Search Quality Evaluator Guidelines
-- Moz Beginner's Guide to SEO
-- Backlinko Blog (Brian Dean)
-- Search Engine Journal
-- Ahrefs Blog
 
 ---
 
-**Remember**: SEO serves the user, not the algorithm. Never sacrifice content quality, accuracy, or helpfulness for keyword optimization. The best SEO is great content that genuinely helps podcast creators succeed.
+**Remember**: SEO serves the user, not the algorithm. Great content that genuinely helps Rust gambling players will rank better than keyword-stuffed nonsense. Focus on being the most helpful, trustworthy resource for Rust gambling information.

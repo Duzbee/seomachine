@@ -1,224 +1,160 @@
 # Internal Links Map
 
-<!-- INSTRUCTIONS: This document catalogs key pages on your website that should be referenced
-     in blog content for strategic internal linking.
-
-     Fill in all sections with your actual URLs and linking guidelines.
-     This helps Claude create relevant internal links while writing content.
-
-     Delete these instruction comments when done.
-     See examples/castos/internal-links-map.md for a complete real-world example. -->
-
-This document catalogs key [YOUR COMPANY] pages that should be referenced in blog content for strategic internal linking. Use this as your go-to reference when adding internal links to articles.
-
-## Instructions
-
-Fill in URLs and descriptions for all important pages on your website. Update as new content is created or pages are updated.
-
-For each page, include:
-- **URL**: The full URL to the page
-- **When to Link**: Context or topics where this link is relevant
-- **Anchor Text Examples**: Natural phrases to use when linking
+This document catalogs key RustCasino pages that should be referenced in blog content for strategic internal linking.
 
 ---
 
-## Homepage & Core Pages
+## Game Pages
 
-### Homepage
-- **URL**: https://[yoursite.com]
-- **When to Link**: [e.g., "Rarely; only when referencing your company broadly"]
-- **Anchor Text Examples**: "[your company name]", "our platform", "[your product]"
+### Cases
+- **URL**: https://rustcasino.com/cases
+- **When to Link**: When discussing case opening, unboxing, skin drops, or trying your luck
+- **Anchor Text Examples**:
+  - "open cases"
+  - "case opening"
+  - "try your luck with cases"
+  - "open a case"
+  - "Cases page"
 
-### About Page
-- **URL**: https://[yoursite.com/about]
-- **When to Link**: [e.g., "When discussing company mission, values, or team"]
-- **Anchor Text Examples**: "about [company]", "our mission", "our story"
+### Case Battles
+- **URL**: https://rustcasino.com/case-battles
+- **When to Link**: When discussing competitive gambling, PvP, multiplayer games, or head-to-head competition
+- **Anchor Text Examples**:
+  - "Case Battles"
+  - "compete in Case Battles"
+  - "head-to-head case opening"
+  - "battle other players"
+  - "competitive case opening"
 
-### Contact Page
-- **URL**: https://[yoursite.com/contact]
-- **When to Link**: [e.g., "When inviting readers to reach out"]
-- **Anchor Text Examples**: "contact us", "get in touch", "reach out"
+### Roulette
+- **URL**: https://rustcasino.com/roulette
+- **When to Link**: When discussing classic casino games, wheel games, betting on colors, or simple gambling
+- **Anchor Text Examples**:
+  - "Roulette"
+  - "spin the wheel"
+  - "play Roulette"
+  - "Roulette game"
+  - "bet on red or black"
 
-### Pricing Page
-- **URL**: https://[yoursite.com/pricing]
-- **When to Link**: [e.g., "When discussing costs, plans, or pricing"]
-- **Anchor Text Examples**: "[product] pricing", "pricing plans", "see pricing"
+### Coinflip
+- **URL**: https://rustcasino.com/coinflip
+- **When to Link**: When discussing 50/50 games, simple bets, head-to-head, or high-risk gambling
+- **Anchor Text Examples**:
+  - "Coinflip"
+  - "flip a coin"
+  - "50/50 odds"
+  - "Coinflip game"
+  - "go head-to-head in Coinflip"
 
----
+### Jackpot
+- **URL**: https://rustcasino.com/jackpot
+- **When to Link**: When discussing high stakes, big prizes, pooled pots, or massive wins
+- **Anchor Text Examples**:
+  - "Jackpot"
+  - "enter the Jackpot"
+  - "win big in Jackpot"
+  - "Jackpot game"
+  - "massive prizes"
 
-## Product/Service Pages
-
-<!-- INSTRUCTIONS: Add your main product or service pages -->
-
-### [Product/Service Name 1]
-- **URL**: https://[yoursite.com/product-1]
-- **When to Link**: [Topics/contexts where this is relevant]
-- **Anchor Text Examples**: "[descriptive phrase]", "[benefit-focused phrase]", "[feature name]"
-
-### [Product/Service Name 2]
-- **URL**: https://[yoursite.com/product-2]
-- **When to Link**: [Topics/contexts where this is relevant]
-- **Anchor Text Examples**: "[descriptive phrase]", "[benefit-focused phrase]", "[feature name]"
-
-### [Product/Service Name 3]
-- **URL**: https://[yoursite.com/product-3]
-- **When to Link**: [Topics/contexts where this is relevant]
-- **Anchor Text Examples**: "[descriptive phrase]", "[benefit-focused phrase]", "[feature name]"
-
----
-
-## Feature Pages
-
-<!-- INSTRUCTIONS: Add pages for specific features or capabilities -->
-
-### [Feature Name 1]
-- **URL**: https://[yoursite.com/feature-1]
-- **When to Link**: In articles about [relevant topics]
-- **Anchor Text Examples**: "[feature name]", "[what it does]", "[benefit phrase]"
-
-### [Feature Name 2]
-- **URL**: https://[yoursite.com/feature-2]
-- **When to Link**: In articles about [relevant topics]
-- **Anchor Text Examples**: "[feature name]", "[what it does]", "[benefit phrase]"
-
-### [Feature Name 3]
-- **URL**: https://[yoursite.com/feature-3]
-- **When to Link**: In articles about [relevant topics]
-- **Anchor Text Examples**: "[feature name]", "[what it does]", "[benefit phrase]"
-
----
-
-## Use Case / Solution Pages
-
-<!-- INSTRUCTIONS: Add pages for specific use cases, industries, or customer segments -->
-
-### [Use Case 1]
-- **URL**: https://[yoursite.com/use-case-1]
-- **When to Link**: In articles targeting [audience segment] or discussing [problem/solution]
-- **Anchor Text Examples**: "[use case description]", "[for whom]", "[solution phrase]"
-
-### [Use Case 2]
-- **URL**: https://[yoursite.com/use-case-2]
-- **When to Link**: In articles targeting [audience segment] or discussing [problem/solution]
-- **Anchor Text Examples**: "[use case description]", "[for whom]", "[solution phrase]"
+### Blackjack
+- **URL**: https://rustcasino.com/blackjack
+- **When to Link**: When discussing skill-based gambling, card games, classic casino, or playing against the house
+- **Anchor Text Examples**:
+  - "Blackjack"
+  - "play Blackjack"
+  - "card games"
+  - "Blackjack table"
+  - "21"
 
 ---
 
 ## Resource Pages
 
-<!-- INSTRUCTIONS: Add links to guides, tools, templates, or other resources -->
+### Rust Wiki
+- **URL**: https://rustcasino.com/wiki
+- **When to Link**: When discussing Rust items, skins, skin values, item information, or researching items
+- **Anchor Text Examples**:
+  - "Rust wiki"
+  - "check item values"
+  - "Rust skin database"
+  - "item information"
+  - "skin values"
+  - "learn about Rust items"
 
-### [Resource Name 1]
-- **URL**: https://[yoursite.com/resources/resource-1]
-- **When to Link**: [When this resource would help the reader]
-- **Anchor Text Examples**: "[resource name]", "[what it provides]", "free [resource type]"
-
-### [Resource Name 2]
-- **URL**: https://[yoursite.com/resources/resource-2]
-- **When to Link**: [When this resource would help the reader]
-- **Anchor Text Examples**: "[resource name]", "[what it provides]", "free [resource type]"
-
----
-
-## Top-Performing Blog Posts
-
-<!-- INSTRUCTIONS: Add your 10-20 best blog posts that get good traffic and conversions.
-     These are "pillar content" you want to link to frequently. -->
-
-### [Blog Post Title 1]
-- **URL**: https://[yoursite.com/blog/post-1]
-- **Primary Topic**: [Main topic/keyword]
-- **When to Link**: In articles about [related topics]
-- **Anchor Text Examples**: "[topic phrase]", "[how-to phrase]", "[question phrase]"
-
-### [Blog Post Title 2]
-- **URL**: https://[yoursite.com/blog/post-2]
-- **Primary Topic**: [Main topic/keyword]
-- **When to Link**: In articles about [related topics]
-- **Anchor Text Examples**: "[topic phrase]", "[how-to phrase]", "[question phrase]"
-
-### [Blog Post Title 3]
-- **URL**: https://[yoursite.com/blog/post-3]
-- **Primary Topic**: [Main topic/keyword]
-- **When to Link**: In articles about [related topics]
-- **Anchor Text Examples**: "[topic phrase]", "[how-to phrase]", "[question phrase]"
-
-### [Blog Post Title 4]
-- **URL**: https://[yoursite.com/blog/post-4]
-- **Primary Topic**: [Main topic/keyword]
-- **When to Link**: In articles about [related topics]
-- **Anchor Text Examples**: "[topic phrase]", "[how-to phrase]", "[question phrase]"
-
-### [Blog Post Title 5]
-- **URL**: https://[yoursite.com/blog/post-5]
-- **Primary Topic**: [Main topic/keyword]
-- **When to Link**: In articles about [related topics]
-- **Anchor Text Examples**: "[topic phrase]", "[how-to phrase]", "[question phrase]"
-
-<!-- Add 5-15 more of your top blog posts following the same format -->
-
----
-
-## Comparison Pages
-
-<!-- INSTRUCTIONS: If you have comparison or "vs" pages, add them here -->
-
-### [Your Product] vs [Competitor 1]
-- **URL**: https://[yoursite.com/vs/competitor-1]
-- **When to Link**: When mentioning [competitor] or discussing alternatives
-- **Anchor Text Examples**: "[your product] vs [competitor]", "comparison with [competitor]"
-
-### [Your Product] vs [Competitor 2]
-- **URL**: https://[yoursite.com/vs/competitor-2]
-- **When to Link**: When mentioning [competitor] or discussing alternatives
-- **Anchor Text Examples**: "[your product] vs [competitor]", "comparison with [competitor]"
-
----
-
-## Landing Pages
-
-<!-- INSTRUCTIONS: Add any campaign-specific or conversion-optimized landing pages -->
-
-### [Campaign/Offer Name]
-- **URL**: https://[yoursite.com/landing/offer-1]
-- **When to Link**: [Specific contexts for this offer]
-- **Anchor Text Examples**: "[offer description]", "[call to action]", "[benefit phrase]"
+### Inventory Calculator
+- **URL**: https://rustcasino.com/inventory
+- **When to Link**: When discussing inventory value, calculating worth, skin prices, or preparing to deposit
+- **Anchor Text Examples**:
+  - "inventory calculator"
+  - "calculate your inventory value"
+  - "check your inventory worth"
+  - "Rust inventory value"
+  - "see what your skins are worth"
 
 ---
 
 ## Internal Linking Best Practices
 
-When adding internal links to blog content:
+When adding internal links to content:
 
 1. **Link Naturally**: Only link when genuinely relevant and helpful to the reader
 2. **Vary Anchor Text**: Use different phrases for the same destination URL
-3. **3-5 Links Per Post**: Aim for 3-5 strategic internal links in each blog post
-4. **Deep Linking**: Link to specific relevant pages, not just the homepage
+3. **3-5 Links Per Article**: Aim for 3-5 strategic internal links in homepage/main content
+4. **Deep Linking**: Link to specific game pages, not just homepage
 5. **Early Links Matter**: Links in the first few paragraphs carry more weight
-6. **Update This Map**: Add new pages as you create them, remove outdated URLs
+6. **Contextual Relevance**: Link when explaining a concept that the target page covers
 
 ---
 
 ## Quick Reference by Topic
 
-<!-- INSTRUCTIONS: Create a quick topic-to-URL mapping for common themes you write about.
-     This helps Claude quickly find relevant links while writing. -->
+**When writing about games/variety**, link to:
+- /cases - Main case opening experience
+- /case-battles - Competitive multiplayer
+- /roulette - Classic wheel game
+- /coinflip - Simple 50/50 game
+- /jackpot - High stakes pooled pot
+- /blackjack - Card game vs house
 
-**When writing about [Topic 1]**, link to:
-- [URL 1] - [Brief description]
-- [URL 2] - [Brief description]
-- [URL 3] - [Brief description]
+**When writing about skins/items**, link to:
+- /wiki - Skin information and values
+- /inventory - Calculate inventory worth
+- /cases - Where to use skins
 
-**When writing about [Topic 2]**, link to:
-- [URL 1] - [Brief description]
-- [URL 2] - [Brief description]
-- [URL 3] - [Brief description]
+**When writing about competition/multiplayer**, link to:
+- /case-battles - Head-to-head competition
+- /coinflip - 1v1 betting
+- /jackpot - Pooled competition
 
-**When writing about [Topic 3]**, link to:
-- [URL 1] - [Brief description]
-- [URL 2] - [Brief description]
-- [URL 3] - [Brief description]
+**When writing about classic casino games**, link to:
+- /roulette - Wheel betting
+- /blackjack - Card game
+- /coinflip - Simple bets
+
+**When writing about high stakes/big wins**, link to:
+- /jackpot - Massive prize pools
+- /case-battles - Competitive high-value battles
+- /cases - Rare skin drops
 
 ---
 
-*Note: Keep this document updated as you publish new content or restructure your site. Accurate internal linking improves SEO and user experience.*
+## Link Priority for Homepage Article
+
+For the "rust gambling" homepage article, prioritize linking to ALL game pages:
+
+| Priority | Page | Why |
+|----------|------|-----|
+| 1 | /cases | Core product, most popular game type |
+| 2 | /case-battles | Unique differentiator, competitive angle |
+| 3 | /roulette | Classic game, broad appeal |
+| 4 | /coinflip | Simple entry point for new players |
+| 5 | /jackpot | Excitement, big win potential |
+| 6 | /blackjack | Skill element, classic casino |
+| 7 | /wiki | Utility, adds value beyond gambling |
+| 8 | /inventory | Utility, helps users get started |
+
+**Goal**: Ensure every game page receives at least one contextual internal link in the homepage article.
+
+---
+
+*Note: Keep this document updated as new pages are added. Accurate internal linking improves SEO and user navigation.*
